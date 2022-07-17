@@ -13,4 +13,3 @@ View(b)
 chisq.test(b)
 #p-value = 0.6603 and it is greater than 0.5 therefore failed to reject null hypothesis
 #Therefore, Same product sales for M & F 
-

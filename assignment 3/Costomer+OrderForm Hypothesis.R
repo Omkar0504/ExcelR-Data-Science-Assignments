@@ -21,4 +21,3 @@ chisq.test(table(stacked_c$values, stacked_c$ind))
 #X-squared = 3.859, df = 3, p-value = 0.2771
 #p-value is greater than 0.05
 #Therefore, No action, Defective % does not varies by  centre.
-
